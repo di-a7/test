@@ -7,3 +7,8 @@ git add .
 
 <!-- commit the changes -->
 git commit -m "messages"
+
+<!-- git status check -->
+git status
+
+git log
