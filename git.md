@@ -12,3 +12,11 @@ git commit -m "messages"
 git status
 
 git log
+
+<!-- add remote repo to local repo -->
+git remote add origin remote_repo_link
+
+<!-- remove remote repo -->
+git remote remove origin
+
+git remote -v
