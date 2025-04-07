@@ -20,3 +20,20 @@ git remote add origin remote_repo_link
 git remote remove origin
 
 git remote -v
+
+<!-- first github push -->
+git push -u origin master
+
+<!-- get changes from github -->
+git pull
+
+<!-- check the existing branch -->
+git branch
+
+<!-- create new branch -->
+git branch branch_name
+
+<!-- switch the branch -->
+git checkout branch_name
+
+git checkout -b branch_name
